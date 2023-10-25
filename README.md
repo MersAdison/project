@@ -5,3 +5,4 @@ This is awesome project.
 [Author](author.md)
 ## Some new section here
 ## Conflict
+[Модель жизненного цикла](https://github.com/MersAdison/project/wiki/Модель-жизненного-цикла)
