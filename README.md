@@ -6,3 +6,4 @@ This is awesome project.
 ## Some new section here
 ## Conflict
 [Модель жизненного цикла](https://github.com/MersAdison/project/wiki/Модель-жизненного-цикла)
+[Функциональные требования](https://github.com/MersAdison/project/wiki/Функциональные-требования)
