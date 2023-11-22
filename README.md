@@ -9,4 +9,4 @@ This is awesome project.
 
 [Функциональные требования](https://github.com/MersAdison/project/wiki/Функциональные-требования)
 
-[Нефункциональные требования]([https://github.com/MersAdison/project/wiki/Нефункциональные-требования)
+[Нефункциональные требования](https://github.com/MersAdison/project/wiki/Нефункциональные-требования)
