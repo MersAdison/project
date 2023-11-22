@@ -8,3 +8,5 @@ This is awesome project.
 [Модель жизненного цикла](https://github.com/MersAdison/project/wiki/Модель-жизненного-цикла)
 
 [Функциональные требования](https://github.com/MersAdison/project/wiki/Функциональные-требования)
+
+[Нефункциональные требования]([https://github.com/MersAdison/project/wiki/Нефункциональные-требования)
