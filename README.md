@@ -11,6 +11,6 @@ This is awesome project.
 
 [Нефункциональные требования](https://github.com/MersAdison/project/wiki/Нефункциональные-требования)
 
-[Команда](https://github.com/MersAdison/project/wiki/Команда)
-
 [Требования](https://github.com/MersAdison/project/wiki/Требования)
+
+[Команда](https://github.com/MersAdison/project/wiki/Команда)
